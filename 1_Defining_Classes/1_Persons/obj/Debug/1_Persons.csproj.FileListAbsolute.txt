@@ -1,0 +1,6 @@
+E:\Projects\OOP Csharp\1_Defining_Classes\1_Persons\bin\Debug\1_Persons.exe.config
+E:\Projects\OOP Csharp\1_Defining_Classes\1_Persons\bin\Debug\1_Persons.exe
+E:\Projects\OOP Csharp\1_Defining_Classes\1_Persons\bin\Debug\1_Persons.pdb
+E:\Projects\OOP Csharp\1_Defining_Classes\1_Persons\obj\Debug\1_Persons.exe
+E:\Projects\OOP Csharp\1_Defining_Classes\1_Persons\obj\Debug\1_Persons.pdb
+E:\Projects\OOP Csharp\1_Defining_Classes\1_Persons\obj\Debug\1_Persons.csprojResolveAssemblyReference.cache

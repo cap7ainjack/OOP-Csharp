@@ -1,0 +1,6 @@
+E:\Projects\OOP Csharp\1_Defining_Classes\PCcatalog\bin\Debug\PCcatalog.exe.config
+E:\Projects\OOP Csharp\1_Defining_Classes\PCcatalog\bin\Debug\PCcatalog.exe
+E:\Projects\OOP Csharp\1_Defining_Classes\PCcatalog\bin\Debug\PCcatalog.pdb
+E:\Projects\OOP Csharp\1_Defining_Classes\PCcatalog\obj\Debug\PCcatalog.csprojResolveAssemblyReference.cache
+E:\Projects\OOP Csharp\1_Defining_Classes\PCcatalog\obj\Debug\PCcatalog.exe
+E:\Projects\OOP Csharp\1_Defining_Classes\PCcatalog\obj\Debug\PCcatalog.pdb

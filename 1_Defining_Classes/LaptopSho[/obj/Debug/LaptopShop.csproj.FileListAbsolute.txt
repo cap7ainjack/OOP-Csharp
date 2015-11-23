@@ -1,0 +1,6 @@
+E:\Projects\OOP Csharp\1_Defining_Classes\LaptopSho[\bin\Debug\LaptopSho[.exe.config
+E:\Projects\OOP Csharp\1_Defining_Classes\LaptopSho[\bin\Debug\LaptopSho[.exe
+E:\Projects\OOP Csharp\1_Defining_Classes\LaptopSho[\bin\Debug\LaptopSho[.pdb
+E:\Projects\OOP Csharp\1_Defining_Classes\LaptopSho[\obj\Debug\LaptopShop.csprojResolveAssemblyReference.cache
+E:\Projects\OOP Csharp\1_Defining_Classes\LaptopSho[\obj\Debug\LaptopSho[.exe
+E:\Projects\OOP Csharp\1_Defining_Classes\LaptopSho[\obj\Debug\LaptopSho[.pdb
