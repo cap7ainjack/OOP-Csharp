@@ -1,0 +1,6 @@
+E:\Projects\OOP Csharp\Lab-Football_League\Lab-Football_League\bin\Debug\Lab-Football_League.exe.config
+E:\Projects\OOP Csharp\Lab-Football_League\Lab-Football_League\bin\Debug\Lab-Football_League.exe
+E:\Projects\OOP Csharp\Lab-Football_League\Lab-Football_League\bin\Debug\Lab-Football_League.pdb
+E:\Projects\OOP Csharp\Lab-Football_League\Lab-Football_League\obj\Debug\Lab-Football_League.csprojResolveAssemblyReference.cache
+E:\Projects\OOP Csharp\Lab-Football_League\Lab-Football_League\obj\Debug\Lab-Football_League.exe
+E:\Projects\OOP Csharp\Lab-Football_League\Lab-Football_League\obj\Debug\Lab-Football_League.pdb
