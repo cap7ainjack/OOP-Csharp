@@ -1,0 +1,6 @@
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe.config
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.pdb
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.csprojResolveAssemblyReference.cache
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.exe
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.pdb

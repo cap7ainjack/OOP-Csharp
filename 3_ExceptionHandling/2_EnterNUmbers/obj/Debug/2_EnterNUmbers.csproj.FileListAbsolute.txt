@@ -1,0 +1,6 @@
+C:\Users\jackie\Documents\Visual Studio 2015\Projects\3_ExceptionHandling\2_EnterNUmbers\bin\Debug\2_EnterNUmbers.exe.config
+C:\Users\jackie\Documents\Visual Studio 2015\Projects\3_ExceptionHandling\2_EnterNUmbers\bin\Debug\2_EnterNUmbers.exe
+C:\Users\jackie\Documents\Visual Studio 2015\Projects\3_ExceptionHandling\2_EnterNUmbers\bin\Debug\2_EnterNUmbers.pdb
+C:\Users\jackie\Documents\Visual Studio 2015\Projects\3_ExceptionHandling\2_EnterNUmbers\obj\Debug\2_EnterNUmbers.exe
+C:\Users\jackie\Documents\Visual Studio 2015\Projects\3_ExceptionHandling\2_EnterNUmbers\obj\Debug\2_EnterNUmbers.pdb
+C:\Users\jackie\Documents\Visual Studio 2015\Projects\3_ExceptionHandling\2_EnterNUmbers\obj\Debug\2_EnterNUmbers.csprojResolveAssemblyReference.cache

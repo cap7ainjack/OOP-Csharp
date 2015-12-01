@@ -1,0 +1,5 @@
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_EXR_Inheritans_Abastraction\bin\Debug\0_EXR_Inheritans_Abastraction.exe.config
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_EXR_Inheritans_Abastraction\bin\Debug\0_EXR_Inheritans_Abastraction.exe
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_EXR_Inheritans_Abastraction\bin\Debug\0_EXR_Inheritans_Abastraction.pdb
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_EXR_Inheritans_Abastraction\obj\Debug\0_EXR_Inheritans_Abastraction.exe
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_EXR_Inheritans_Abastraction\obj\Debug\0_EXR_Inheritans_Abastraction.pdb

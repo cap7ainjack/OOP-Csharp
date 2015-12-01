@@ -1,0 +1,6 @@
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_Train\bin\Debug\0_Train.exe.config
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_Train\bin\Debug\0_Train.exe
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_Train\bin\Debug\0_Train.pdb
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_Train\obj\Debug\0_Train.csprojResolveAssemblyReference.cache
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_Train\obj\Debug\0_Train.exe
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_Train\obj\Debug\0_Train.pdb

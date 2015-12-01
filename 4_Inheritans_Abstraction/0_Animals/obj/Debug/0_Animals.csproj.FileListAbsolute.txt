@@ -1,0 +1,6 @@
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_Animals\bin\Debug\0_Animals.exe.config
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_Animals\bin\Debug\0_Animals.exe
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_Animals\bin\Debug\0_Animals.pdb
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_Animals\obj\Debug\0_Animals.csprojResolveAssemblyReference.cache
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_Animals\obj\Debug\0_Animals.exe
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_Animals\obj\Debug\0_Animals.pdb

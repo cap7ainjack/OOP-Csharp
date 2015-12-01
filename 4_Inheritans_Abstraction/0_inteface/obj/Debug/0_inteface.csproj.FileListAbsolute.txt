@@ -1,0 +1,1 @@
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_inteface\bin\Debug\0_inteface.exe.config

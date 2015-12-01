@@ -1,0 +1,6 @@
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_WirkingWithAbstraction\bin\Debug\0_WirkingWithAbstraction.exe.config
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_WirkingWithAbstraction\bin\Debug\0_WirkingWithAbstraction.exe
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_WirkingWithAbstraction\bin\Debug\0_WirkingWithAbstraction.pdb
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_WirkingWithAbstraction\obj\Debug\0_WirkingWithAbstraction.csprojResolveAssemblyReference.cache
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_WirkingWithAbstraction\obj\Debug\0_WirkingWithAbstraction.exe
+E:\Projects\OOP Csharp\4_Inheritans_Abstraction\0_WirkingWithAbstraction\obj\Debug\0_WirkingWithAbstraction.pdb
