@@ -1,0 +1,6 @@
+F:\Projects\OOP Csharp\5_Encapsulation-and-Polymorphism\1_Shapes\bin\Debug\1_Shapes.exe.config
+F:\Projects\OOP Csharp\5_Encapsulation-and-Polymorphism\1_Shapes\bin\Debug\1_Shapes.exe
+F:\Projects\OOP Csharp\5_Encapsulation-and-Polymorphism\1_Shapes\bin\Debug\1_Shapes.pdb
+F:\Projects\OOP Csharp\5_Encapsulation-and-Polymorphism\1_Shapes\obj\Debug\1_Shapes.csprojResolveAssemblyReference.cache
+F:\Projects\OOP Csharp\5_Encapsulation-and-Polymorphism\1_Shapes\obj\Debug\1_Shapes.exe
+F:\Projects\OOP Csharp\5_Encapsulation-and-Polymorphism\1_Shapes\obj\Debug\1_Shapes.pdb

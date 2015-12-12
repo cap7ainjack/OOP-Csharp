@@ -1,0 +1,6 @@
+F:\Projects\OOP Csharp\5_Encapsulation-and-Polymorphism\2_Bank_of_Curtovo_Conare\bin\Debug\2_Bank_of_Curtovo_Conare.exe.config
+F:\Projects\OOP Csharp\5_Encapsulation-and-Polymorphism\2_Bank_of_Curtovo_Conare\bin\Debug\2_Bank_of_Curtovo_Conare.exe
+F:\Projects\OOP Csharp\5_Encapsulation-and-Polymorphism\2_Bank_of_Curtovo_Conare\bin\Debug\2_Bank_of_Curtovo_Conare.pdb
+F:\Projects\OOP Csharp\5_Encapsulation-and-Polymorphism\2_Bank_of_Curtovo_Conare\obj\Debug\2_Bank_of_Curtovo_Conare.csprojResolveAssemblyReference.cache
+F:\Projects\OOP Csharp\5_Encapsulation-and-Polymorphism\2_Bank_of_Curtovo_Conare\obj\Debug\2_Bank_of_Curtovo_Conare.exe
+F:\Projects\OOP Csharp\5_Encapsulation-and-Polymorphism\2_Bank_of_Curtovo_Conare\obj\Debug\2_Bank_of_Curtovo_Conare.pdb

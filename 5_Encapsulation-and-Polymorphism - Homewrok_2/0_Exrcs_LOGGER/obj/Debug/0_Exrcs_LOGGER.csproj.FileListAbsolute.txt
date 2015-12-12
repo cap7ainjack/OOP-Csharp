@@ -1,0 +1,6 @@
+F:\Projects\OOP Csharp\5_Encapsulation-and-Polymorphism\0_Exrcs_LOGGER\bin\Debug\0_Exrcs_LOGGER.exe.config
+F:\Projects\OOP Csharp\5_Encapsulation-and-Polymorphism\0_Exrcs_LOGGER\bin\Debug\0_Exrcs_LOGGER.exe
+F:\Projects\OOP Csharp\5_Encapsulation-and-Polymorphism\0_Exrcs_LOGGER\bin\Debug\0_Exrcs_LOGGER.pdb
+F:\Projects\OOP Csharp\5_Encapsulation-and-Polymorphism\0_Exrcs_LOGGER\obj\Debug\0_Exrcs_LOGGER.csprojResolveAssemblyReference.cache
+F:\Projects\OOP Csharp\5_Encapsulation-and-Polymorphism\0_Exrcs_LOGGER\obj\Debug\0_Exrcs_LOGGER.exe
+F:\Projects\OOP Csharp\5_Encapsulation-and-Polymorphism\0_Exrcs_LOGGER\obj\Debug\0_Exrcs_LOGGER.pdb
