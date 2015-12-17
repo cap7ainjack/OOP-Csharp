@@ -1,0 +1,6 @@
+F:\SoftUni\Fundamental level\OOP CSharp\Skeleton\MassEffect\bin\Debug\MassEffect.exe.config
+F:\SoftUni\Fundamental level\OOP CSharp\Skeleton\MassEffect\obj\Debug\MassEffect.csprojResolveAssemblyReference.cache
+F:\SoftUni\Fundamental level\OOP CSharp\Skeleton\MassEffect\bin\Debug\MassEffect.exe
+F:\SoftUni\Fundamental level\OOP CSharp\Skeleton\MassEffect\bin\Debug\MassEffect.pdb
+F:\SoftUni\Fundamental level\OOP CSharp\Skeleton\MassEffect\obj\Debug\MassEffect.exe
+F:\SoftUni\Fundamental level\OOP CSharp\Skeleton\MassEffect\obj\Debug\MassEffect.pdb
