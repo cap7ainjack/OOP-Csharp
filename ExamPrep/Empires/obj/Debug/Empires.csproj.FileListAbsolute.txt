@@ -1,0 +1,6 @@
+F:\Projects\OOP Csharp\ExamPrep\Empires\bin\Debug\Empires.exe.config
+F:\Projects\OOP Csharp\ExamPrep\Empires\bin\Debug\Empires.exe
+F:\Projects\OOP Csharp\ExamPrep\Empires\bin\Debug\Empires.pdb
+F:\Projects\OOP Csharp\ExamPrep\Empires\obj\Debug\Empires.csprojResolveAssemblyReference.cache
+F:\Projects\OOP Csharp\ExamPrep\Empires\obj\Debug\Empires.exe
+F:\Projects\OOP Csharp\ExamPrep\Empires\obj\Debug\Empires.pdb
